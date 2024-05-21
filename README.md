@@ -15,5 +15,5 @@ A Python GUI application for extracting text from chapters of a web novel and sa
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/farhanasc23/Novelbin-TextCollector.git
+   https://github.com/FarhanASC23/Novelbin-TextCollector.git
    cd Novelbin-TextCollector
