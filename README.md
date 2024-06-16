@@ -1,4 +1,4 @@
-# (for testing): Made with GPT-4o
+# (for testing)
 
 # Chapter Text Extractor
 
